@@ -33,7 +33,7 @@
           android:layout_marginHorizontal="20dp"
           android:hint="@string/password" />
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginLeft="20dp"
